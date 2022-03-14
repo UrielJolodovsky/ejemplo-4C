@@ -1,4 +1,4 @@
 # ejemplo-4C
 Ejemplo para la clase con 4C
 
-Lunes 14/#, L2
+Lunes 14/3, L2
